@@ -110,7 +110,12 @@ Before running the scripts, ensure that you have the following:
    cd boyue-notes-recovery-and-export
    ```
 
-2. Install the required dependencies by running `pip install -r requirements.txt`.
+2. Install the required dependencies by running:
+
+   ```powershell
+   pip install -r requirements.txt
+   ```
+
 3. Put the notes folder from the device into the `init_data` folder.
 4. Run the desired script:
 
