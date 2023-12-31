@@ -7,7 +7,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-[![Boyue](https://img.shields.io/badge/Boyue-8A2BE2)](https://www.facebook.com/BoyueLikebook/)
+[![Black](https://img.shields.io/badge/Code%20style:-Black-000000.svg)](https://github.com/psf/black)
+[![Boyue](https://img.shields.io/badge/Boyue%20Likebook-8A2BE2)](https://www.facebook.com/BoyueLikebook/)
 
 This repository contains three Python scripts for working with Boyue Notepad app data. The scripts are designed to assist in recovering missing lines from the `notes.xml` file, exporting notes PNG pages to PDF based on their names in the Notes app, and creating an input list of all notes in `notes.xml` for exporting.
 
